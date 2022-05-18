@@ -6,4 +6,4 @@ SUM=$(($FIRST_NUMBER+$SECOND_NUMBER))
 
 echo "$SUM"
 echo "Script was executed"
-echo "Test commit 4"
+echo "Test commit 5"
